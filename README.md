@@ -12,6 +12,8 @@
 - 🏫 Special Education Consultant 
 - 🍎 Academic Coach
 
+---
+
 **I'm Seeking:**
 - 🤔 Challenging Positions With Awesome People
 - 💼 Remote or hybrid technical writing contracts in Toronto, Ontario
@@ -38,6 +40,8 @@
 - 😎 Being part of the awesome dev community especially Toronto Javascript
 - 🎧 Podcasts and Audiobooks
 
+---
+
 **My Stack Includes:**
 - 📚 HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty
 
@@ -49,9 +53,12 @@
 - 🌱 Jira, Typescript, Go/Golang, UI Design
 - 📖 and always improving my CSS, Javascript, HMTL, skills
 
+---
 
 **💞️ I’m looking to collaborate on:**
 - 😸 [The Alice in Wonderland Project: Learning GitHub Open Source Workflows the Easy Way](https://github.com/GingerKiwi/alice-game) the open source project I created during Hacktoberfest 2022
+
+---
 
 **Interesting Facts:**
 
@@ -62,6 +69,8 @@
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
 - ❄️ I was the youngest skier in the Canadian Ski Marathon when I was 5. 37km, 2 days, -57C, no poles
 - 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
+
+---
 
 **📫 How To Reach Me**
 - 💼 LinkedIn: [elizabethmccready](https://www.linkedin.com/in/elizabethmccready/)
