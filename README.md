@@ -71,7 +71,7 @@
 
 - 🇫🇷 I've been doing Duolingo French daily since January 2022.
 - 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen. 
-- 🇬🇧 I can also legally work in the UK because I have UK Ancestry.
+- 🇬🇧 I can legally work in the UK because I have UK Ancestry, and 🇦🇺 Australia because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!).
 - 🐑 My elementary school in NZ was right next to a sheep farm, so at lunchtime I got to watch the 🐕 sheepdogs working. 
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months.
 - ❄️ I was the youngest skier in the Canadian Ski Marathon when I was 5. I skied 32km in 2 days, in -57C with no poles.
