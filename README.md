@@ -45,12 +45,12 @@
 **Interesting Facts:**
 
 - 🇫🇷 I've been doing Duolingo French daily since January 2022
-- 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen, and can also legally work in the 🇬🇧 UK
+- 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen, 
+- 🇬🇧 I can also legally work in the UK because I have UK Ancestry.
 - 🐑 My elementary school was right next to a sheep farm in Wellington, New Zealand
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
-- ❄️ I was the youngest skiier in the Canadian Ski Marathon when I was 5. 37km, 2 days, -57C, no poles
+- ❄️ I was the youngest skier in the Canadian Ski Marathon when I was 5. 37km, 2 days, -57C, no poles
 - 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
-
 
 **📫 How To Reach Me**
 - 💼 LinkedIn: [elizabethmccready](https://www.linkedin.com/in/elizabethmccready/)
