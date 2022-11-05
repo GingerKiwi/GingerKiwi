@@ -16,8 +16,8 @@
 
 **I'm Seeking:**
 - 🤔 Challenging Positions With 😎 Awesome People
-- 💼 Remote or Hybrid Technical Writing Contracts in Toronto, Ontario
-- 🖥️ Remote or Hybrid Web Development Positions
+- 💼 Remote or Hybrid 🖊️ Technical Writing Contracts in Toronto, Ontario
+- 🖥️ Remote or Hybrid 👩‍💻 Web Development Positions
 
 ---
 
