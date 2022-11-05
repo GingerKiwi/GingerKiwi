@@ -55,7 +55,7 @@
 
 **🧭 I’m Currently Exploring:** Jira, Typescript, Go/Golang, UI Design
 
-**🌱 I'm Always Growing My Skills in:** HTML, CSS, Javascript, GitHub/Git
+**🌱 I'm Always Growing My Skills in:** HTML, CSS, Javascript, React, GitHub/Git, French,
 
 **🐍 In My 2020-2021 Computer Science and IT Courses I Used:** Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd
 
