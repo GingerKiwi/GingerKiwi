@@ -1,7 +1,7 @@
 **👋 Hello World! I’m Liz McCready (aka Ginger Kiwi).**
 
 **I'm an:**
-- 🖊️ Experienced Technical Writer Editor and Researcher
+- 🖊️ [Experienced Technical Writer Editor and Researcher](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
 - 🔎 SEO Web Content Writer 
 - 👩‍💻 Frontend Javascript and React Developer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
@@ -43,11 +43,11 @@
 
 **Interesting Facts:**
 
-- 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
 - 🇫🇷 I've been doing Duolingo French daily since January 2022
 - 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen
 - 🐑 My elementary school was right next to a sheep farm (in Wellington, New Zealand)
-- 🤓 I seem to collect random interesting facts about all sorts of things 
+- 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
+- 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
 
 
 **📫 How to reach me**
