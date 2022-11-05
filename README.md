@@ -3,7 +3,7 @@
 **I'm an:**
 - 🖊️ Experienced Technical Writer Editor and Researcher
 - 🔎 SEO Web Content Writer 
-- 👩‍💻 Javascript Developer, React Developer 
+- 👩‍💻 Frontend Javascript and React Developer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
 - 🚀 [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) student and active Scrimba community member
 
