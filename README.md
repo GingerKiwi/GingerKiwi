@@ -19,6 +19,8 @@
 - 💼 Remote or Hybrid 🖊️ Technical Writing Contracts in Toronto, Ontario
 - 🖥️ Remote or Hybrid 👩‍💻 Web Development Positions
 
+[Download my Technical Writing Resume](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
+
 ---
 
 **My Favourite Quote Is:**
