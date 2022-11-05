@@ -70,7 +70,10 @@
 ---
 
 **💞️ I’m looking to collaborate on:**
-- 😸 [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game) the open source project I created during Hacktoberfest 2022. *Join other new developers in Wonderland and learning GitHub ppen source workflows the fun way!*
+
+😸 [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game) the open source project I created during Hacktoberfest 2022. 
+
+*Join other new developers in Wonderland and learning GitHub ppen source workflows the fun way!*
 
 ---
 
