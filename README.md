@@ -8,6 +8,7 @@
 - 👩‍💻 Frontend Javascript and React Developer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
 - 🚀 [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) student and active Scrimba community member
+- 📂 Open Source Project Creator and Maintainer for [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game)
 
 **In My Former Career I Was An:**
 - ♿ Assistive Technology Specialist 
