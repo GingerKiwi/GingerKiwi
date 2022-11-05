@@ -57,8 +57,11 @@
 - 🟥 Toronto JavaScript Slack: 'Liz GingerKiwi.dev'
 
 **My Favourite Quote Is:**
+
 >**"Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.**
-> *~ Kim Salazar, KnitList circa 1995*
+> 
+
+*~ Kim Salazar, KnitList circa 1995*
 
 <!---
 GingerKiwi/GingerKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
