@@ -34,7 +34,7 @@
 
 <!-- - 👀 I’m interested in ... -->
 **I’m currently learning:**
-- 🌱 Jira, React, Typescript, Go/Golang, 
+- 🌱 Jira, Typescript, Go/Golang, UI Design
 - 📖 and always improving my CSS, Javascript, HMTL, skills
 
 
