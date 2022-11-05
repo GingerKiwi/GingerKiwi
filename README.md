@@ -23,6 +23,14 @@
 
 ---
 
+**I Can Legally Work In**
+
+- 🇨🇦 Canada: I was born here.
+- 🇳🇿 New Zealand/Aotearoa. I'm a New Zealand (Kiwi) citizen by birthright. (parent from NZ)
+- 🇬🇧 The UK. I'm eligable for a UK Ancestry visa becuase my Nana was from Newcastle, and my grandfather from N.Ireland.
+- 🇦🇺 Australia, and The Cook Islands, because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!)
+---
+
 **My Favourite Quote Is:**
 
 >**🧶 "Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.**
@@ -70,8 +78,6 @@
 **Interesting Facts:**
 
 - 🇫🇷 I've been doing Duolingo French daily since January 2022.
-- 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen. 
-- 🇬🇧 I can legally work in the UK because I have UK Ancestry, and 🇦🇺 Australia because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!).
 - 🐑 My elementary school in NZ was right next to a sheep farm, so at lunchtime I got to watch the 🐕 sheepdogs working. 
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months.
 - ❄️ I was the youngest skier in the Canadian Ski Marathon when I was 5. I skied 32km in 2 days, in -57C with no poles.
