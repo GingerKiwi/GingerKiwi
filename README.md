@@ -1,5 +1,7 @@
 **👋 Hello World! I’m Liz McCready (aka Ginger Kiwi).**
 
+{This  🇳🇿 kind of redheadedKiwi, not 🥝kiwi fruit!}
+
 **I'm An:**
 - 🖊️ [Experienced Technical Writer Editor and Researcher](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
 - 🔎 SEO Web Content Writer 
