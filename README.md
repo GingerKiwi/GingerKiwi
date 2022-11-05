@@ -1,7 +1,7 @@
 **👋 Hello World! I’m Liz McCready (aka Ginger Kiwi).**
 
 **I'm an:**
-- 🖊️ Experienced Technical Writer, Editor, and Researcher
+- 🖊️ Experienced Technical Writer Editor and Researcher
 - 🔎 SEO Web Content Writer 
 - 👩‍💻 Javascript Developer, React Developer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
