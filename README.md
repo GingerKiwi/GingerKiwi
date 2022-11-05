@@ -26,7 +26,7 @@
 **I Can Legally Work In**
 
 - 🇨🇦 Canada: I was born here.
-- 🇳🇿 New Zealand/Aotearoa. I'm a New Zealand (Kiwi) citizen by birthright. (parent from NZ)
+- 🇳🇿 New Zealand/Aotearoa. I'm a New Zealand (Kiwi) citizen and lived in Wellington in primary (elementary) school
 - 🇬🇧 The UK. I'm eligable for a UK Ancestry visa becuase my Nana was from Newcastle, and my grandfather from N.Ireland.
 - 🇦🇺 Australia, and The Cook Islands, because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!)
 ---
