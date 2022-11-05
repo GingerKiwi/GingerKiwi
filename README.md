@@ -32,11 +32,11 @@
 
 **I'm Passionate About:**
 - 🧩 Solving Puzzles with Others 
-- 🧶 Knitting. I've been knitting since I was six. Look for my Crafting and Code social meetups soon!
+- 🧶 Knitting. I've been knitting since I was six. It's 3D binary code.
 - 🐈 Rescue pets. I have three rescue cats, Kitten, Boo, and Maybel.
 - 🫶 Volunteering. I have over 15,000 volunteer hours.
 - 🌲The outdoors. 
-- 🏊🏻‍♀️ Being Active. I love swimming, spin classes at home, yoga, Nordic walking, dance, ice skating,
+- 🏊🏻‍♀️ Being Active. I love swimming, spin classes at home, yoga, Nordic walking, dance, ice skating, ...
 - 😎 Being part of the awesome dev community especially Toronto Javascript
 - 🎧 Podcasts and Audiobooks
 
@@ -82,6 +82,8 @@
 - 📰 My Blog: [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
 - ✉️ Email: <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
 - 🟥 Toronto JavaScript Slack: 'Liz GingerKiwi.dev'
+
+**Coming Soon: Look for my 🧶Crafting and Code Virtual Social Meetups!**
 
 <!---
 GingerKiwi/GingerKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
