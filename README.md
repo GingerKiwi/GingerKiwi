@@ -49,15 +49,15 @@
 
 **Languages and Tools**
 
-**📚 My Stack Includes:** HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty, APIs,
+**📚 My Stack Includes:** HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty, APIs
 
-**🧰 Some of My Tools Include:** VS Code, Git, GitHub, Figma, Notion.io, Trello, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman, 
+**🧰 Some of My Tools Are:** VS Code, Git, GitHub, Figma, Notion.io, Trello, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman
 
 **🧭 I’m Currently Exploring:** Jira, Typescript, Go/Golang, UI Design
 
-**🌱 I'm Always Growing My Skills in:** HTML, CSS, Javascript, React, GitHub/Git, French,
+**🌱 I'm Always Growing My Skills in:** HTML, CSS, Javascript, React, GitHub/Git, French
 
-**🐍 In My 2020-2021 Computer Science and IT Courses I Used:** Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd
+**🐍 In My 2020-2021 Computer Science and IT Courses I Used:** Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd, Microsoft Viso, Microsoft Teams
 
 ---
 
