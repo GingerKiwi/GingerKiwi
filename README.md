@@ -17,10 +17,9 @@
 **I'm Seeking:**
 - 🤔 Challenging Positions With 😎 Awesome People
 - 💼 Remote or Hybrid 🖊️ Technical Writing Contracts in Toronto, Ontario. 
-- [Download my Technical Writing Resume from GitHub](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
 - 🖥️ Remote or Hybrid 👩‍💻 Web Development Positions
 
-
+[Download my Technical Writing Resume from GitHub](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
 
 ---
 
