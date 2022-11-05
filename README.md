@@ -17,12 +17,16 @@
 - 💼 Remote or hybrid technical writing contracts in Toronto, Ontario
 - 🖥️ Remote or hybrid web development positions
 
+---
+
 **My Favourite Quote Is:**
 
 >**🧶 "Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.**
 > 
 
 *Kim Salazar, KnitList circa 1995*
+
+---
 
 **I'm Passionate About:**
 - 🧩 Solving Puzzles with Others 
