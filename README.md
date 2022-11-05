@@ -17,7 +17,7 @@
 - 🧶 Knitting. I've been knitting since I was six. Look for my Crafting and Code social meetups soon!
 - 🐈 Rescue pets. I have three rescue cats, Kitten, Boo, and Maybel.
 - 🫶 Volunteering. I have over 15,000 volunteer hours.
-- 🌲The outdoors. I've canoe guided, hiked in the Tauarua Ranges in New Zealand, and was the youngest skiier in the Canadian Ski Marathon when I was 5.
+- 🌲The outdoors. 
 - 🏊🏻‍♀️ Being Active. I love swimming, spin classes at home, yoga, Nordic walking, dance, ice skating,
 - 😎 Being part of the awesome dev community especially Toronto Javascript
 - 🎧 Podcasts and Audiobooks
@@ -48,6 +48,7 @@
 - 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen, and can also legally work in the 🇬🇧 UK
 - 🐑 My elementary school was right next to a sheep farm in Wellington, New Zealand
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
+- ❄️ I was the youngest skiier in the Canadian Ski Marathon when I was 5. 37km, 2 days, -57C, no poles
 - 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
 
 
