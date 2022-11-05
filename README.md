@@ -59,7 +59,7 @@
 
 **🧭 I’m Currently Exploring:** 
 
-- Jira, Typescript, Go/Golang, UI Design
+- Jira, Typescript, Go/Golang, UI Design, Rust
 
 **🌱 I'm Always Growing My Skills in:** 
 - HTML, CSS, Javascript, React, GitHub/Git, French
