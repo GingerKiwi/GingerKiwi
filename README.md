@@ -1,7 +1,8 @@
 **👋 Hello World! **
 
-**I’m Liz McCready, aka Ginger Kiwi. That's this 🇳🇿 kind of redhead Kiwi, not kiwi fruit!**
+**I’m Liz McCready, aka Ginger Kiwi.**
 
+*That's this 🇳🇿 kind of redhead Kiwi, not kiwi fruit!*
 
 
 **I'm An:**
