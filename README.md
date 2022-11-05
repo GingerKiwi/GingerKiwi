@@ -47,7 +47,7 @@
 - 🇫🇷 I've been doing Duolingo French daily since January 2022
 - 🇳🇿 I'm a dual New Zealand (Kiwi) and 🇨🇦 Canadian citizen, 
 - 🇬🇧 I can also legally work in the UK because I have UK Ancestry.
-- 🐑 My elementary school was right next to a sheep farm in Wellington, New Zealand
+- 🐑 My elementary school in NZ was right next to a sheep farm, so at lunchtime I got to watch the 🐕 sheepdogs working. 
 - 🏕️ I lived in a tipi in the Rocky Mountains for 3 months
 - ❄️ I was the youngest skier in the Canadian Ski Marathon when I was 5. 37km, 2 days, -57C, no poles
 - 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
