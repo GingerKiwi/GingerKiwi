@@ -12,6 +12,18 @@
 - 🏫 Special Education Consultant 
 - 🍎 Academic Coach
 
+**I'm Seeking:**
+- 🤔 Challenging Positions With Awesome People
+- 💼 Remote or hybrid technical writing contracts in Toronto, Ontario
+- 🖥️ Remote or hybrid web development positions
+
+**My Favourite Quote Is:**
+
+>**🧶 "Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.**
+> 
+
+*Kim Salazar, KnitList circa 1995*
+
 **I'm Passionate About:**
 - 🧩 Solving Puzzles with Others 
 - 🧶 Knitting. I've been knitting since I was six. Look for my Crafting and Code social meetups soon!
@@ -21,11 +33,6 @@
 - 🏊🏻‍♀️ Being Active. I love swimming, spin classes at home, yoga, Nordic walking, dance, ice skating,
 - 😎 Being part of the awesome dev community especially Toronto Javascript
 - 🎧 Podcasts and Audiobooks
-
-**I'm Seeking:**
-- 🤔 Challenging Positions With Awesome People
-- 💼 Remote or hybrid technical writing contracts in Toronto, Ontario
-- 🖥️ Remote or hybrid web development positions
 
 **My Stack Includes:**
 - 📚 HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty
@@ -57,13 +64,6 @@
 - 📰 My Blog: [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
 - ✉️ Email: <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
 - 🟥 Toronto JavaScript Slack: 'Liz GingerKiwi.dev'
-
-**My Favourite Quote Is:**
-
->**🧶 "Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.**
-> 
-
-*Kim Salazar, KnitList circa 1995*
 
 <!---
 GingerKiwi/GingerKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
