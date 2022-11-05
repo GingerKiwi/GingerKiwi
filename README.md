@@ -4,8 +4,8 @@
 
 **I'm An:**
 - 🖊️ [Experienced Technical Writer, Editor, Reviewer, and Researcher](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
-- 🔎 SEO Web Content Writer 
 - 👩‍💻 Frontend Javascript and React Developer 
+- 🔎 SEO Web Content Writer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
 - 🚀 [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) student and active Scrimba community member
 - 📂 Open Source Project Creator and Maintainer for [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game)
