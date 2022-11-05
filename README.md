@@ -53,6 +53,9 @@
 - 🌱 Jira, Typescript, Go/Golang, UI Design
 - 📖 and always improving my CSS, Javascript, HMTL, skills
 
+**In My 2020-2021 Computer Science and IT Courses I Used:**
+- 🐍 Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd,
+
 ---
 
 **💞️ I’m looking to collaborate on:**
