@@ -46,6 +46,8 @@
 
 ---
 
+**Tools and Technologies**
+
 **📚 My Stack Includes:**
 - HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty, APIs,
 
