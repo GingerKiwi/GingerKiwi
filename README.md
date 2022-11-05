@@ -52,8 +52,9 @@
 
 **📫 How to reach me**
 - 💼 LinkedIn: [elizabethmccready](https://www.linkedin.com/in/elizabethmccready/)
-- 📰 My Blog [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
-- ✉️ Email <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
+- 📰 My Blog: [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
+- ✉️ Email: <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
+- 🟥 Toronto JavaScript Slack: 'Liz GingerKiwi.dev'
 
 **My Favourite Quote Is:**
 >"Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.
