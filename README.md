@@ -49,15 +49,23 @@
 
 **Languages and Tools**
 
-**📚 My Stack Includes:** HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty, APIs
+**📚 My Stack Includes:** 
 
-**🧰 Some of My Tools Are:** VS Code, Git, GitHub, Figma, Notion.io, Trello, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman
+- HTML, CSS, Javascript, React, Markdown, Numjucks, Node.js, 11ty, APIs
 
-**🧭 I’m Currently Exploring:** Jira, Typescript, Go/Golang, UI Design
+**🧰 Some of My Tools Are:** 
 
-**🌱 I'm Always Growing My Skills in:** HTML, CSS, Javascript, React, GitHub/Git, French
+- VS Code, Git, GitHub, Figma, Notion.io, Trello, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman
 
-**🐍 In My 2020-2021 Computer Science and IT Courses I Used:** Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd, Microsoft Viso, Microsoft Teams
+**🧭 I’m Currently Exploring:** 
+
+- Jira, Typescript, Go/Golang, UI Design
+
+**🌱 I'm Always Growing My Skills in:** 
+- HTML, CSS, Javascript, React, GitHub/Git, French
+
+**🐍 In My 2020-2021 Computer Science and IT Courses I Used:** 
+- Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd, Microsoft Viso, Microsoft Teams
 
 ---
 
@@ -69,10 +77,9 @@
 **I Can Legally Work In**
 
 - 🇨🇦 Canada: I was born here.
-- 🇳🇿 New Zealand/Aotearoa. I'm a New Zealand (Kiwi) citizen and lived in Wellington in primary (elementary) school
-- 🇬🇧 The UK. I'm eligable for a UK Ancestry visa becuase my Nana was from Newcastle, and my grandfather from N.Ireland.
-- 🇦🇺 Australia, and The Cook Islands, because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!)
-- 
+- 🇳🇿 New Zealand/Aotearoa. I'm a New Zealand (Kiwi) citizen and lived in Wellington in primary (elementary) school.
+- 🇬🇧 The UK. I'm eligable for a UK Ancestry visa. My Nana was from Newcastle, and my grandfather from N.Ireland.
+- 🇦🇺 Australia, and The Cook Islands, because I'm a 🇳🇿 Kiwi (not 🥝kiwi fruit!).
 ---
 
 **Interesting Facts:**
