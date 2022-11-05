@@ -1,13 +1,13 @@
 **👋 Hello World! I’m Liz McCready (aka Ginger Kiwi).**
 
-**I'm an:**
+**I'm An:**
 - 🖊️ [Experienced Technical Writer Editor and Researcher](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
 - 🔎 SEO Web Content Writer 
 - 👩‍💻 Frontend Javascript and React Developer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
 - 🚀 [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) student and active Scrimba community member
 
-**In my former career I was an:**
+**In My Former Career I Was An:**
 - ♿ Assistive Technology Specialist 
 - 🏫 Special Education Consultant 
 - 🍎 Academic Coach
@@ -22,7 +22,7 @@
 - 😎 Being part of the awesome dev community especially Toronto Javascript
 - 🎧 Podcasts and Audiobooks
 
-**I'm Seeking: **
+**I'm Seeking:**
 - 🤔 Challenging Positions With Awesome People
 - 💼 Remote or hybrid technical writing contracts in Toronto, Ontario
 - 🖥️ Remote or hybrid web development positions
@@ -34,7 +34,7 @@
 - 🧰 VS Code, Git, Figma, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman, 
 
 <!-- - 👀 I’m interested in ... -->
-**I’m currently learning:**
+**I’m Currently Learning:**
 - 🌱 Jira, Typescript, Go/Golang, UI Design
 - 📖 and always improving my CSS, Javascript, HMTL, skills
 
@@ -52,7 +52,7 @@
 - 🤓 I seem to collect random interesting facts about all sorts of things. Ask me for one!
 
 
-**📫 How to reach me**
+**📫 How To Reach Me**
 - 💼 LinkedIn: [elizabethmccready](https://www.linkedin.com/in/elizabethmccready/)
 - 📰 My Blog: [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
 - ✉️ Email: <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
