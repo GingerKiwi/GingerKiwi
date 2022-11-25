@@ -100,7 +100,7 @@
 - 📰 My Blog: [Ginger Kiwi: Exploring technology, design, and accessibility](https://gingerkiwi.blog)
 - ✉️ Email: <a href="mailto:liz@gingerkiwi.dev">liz@gingerkiwi.dev</a>
 - 🟥 Toronto JavaScript Slack: 'Liz GingerKiwi.dev'
-- 🐦 See My #100DaysOfCode on my Twitter clone [https://twimba-gingerkiwi.netlify.app/] (https://twimba-gingerkiwi.netlify.app/)
+- 🐦 See My #100DaysOfCode on my Twitter clone [https://twimba-gingerkiwi.netlify.app/](https://twimba-gingerkiwi.netlify.app/)
 
 **Coming Soon: Look for my 🧶Crafting and Code Virtual Social Meetups!**
 
