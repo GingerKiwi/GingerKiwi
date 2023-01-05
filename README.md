@@ -3,7 +3,7 @@
 **I’m Liz McCready (aka Ginger Kiwi).**
 
 **I'm An:**
-- 🖊️ [Experienced Technical Writer, Editor, Reviewer, and Researcher](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
+- 🖊️ [Experienced Technical Writer, Editor, Reviewer, and Researcher]([https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/2023.01_Elizabeth_McCready_Resume-webver_lizATgingerkiwiDOTdev.pdf))
 - 👩‍💻 Frontend Javascript and React Developer 
 - 🔎 SEO Web Content Writer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
