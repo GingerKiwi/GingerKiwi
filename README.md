@@ -9,7 +9,7 @@
 - 🔎 SEO Web Content Writer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
 - 🚀 [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) student and active Scrimba community member
-- 📂 Open Source Project Creator and Maintainer for [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game)
+- 📂 Open Source Project Creator and Maintainer for [The Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game). See the 2023 update on my blog post ["What's Happening With The Alice in Wonderland Project?"](https://gingerkiwi.blog/blog/2023-04-03-whats-happening-with-the-alice-in-wonderland-project/)
 
 **In My Former Career I Was An:**
 - ♿ Assistive Technology Specialist 
