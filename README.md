@@ -4,7 +4,7 @@
 
 **I'm A:**
 - 👩‍💻 Frontend Developer with a Passion for Design.
-- 🧶 Founder of Crafting and Code Coffee Chats
+- 🧶 Founder of [Crafting and Code Coffee Chats](https://yarnhelp.app/crafting-and-code.html)
 - 🖊️ [Experienced Technical Writer, Editor, Reviewer, and Researcher]([https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/2023.01_Elizabeth_McCready_Resume-webver_lizATgingerkiwiDOTdev.pdf))
 - 🔎 SEO Web Content Writer 
 - ♿ Accessibility Advocate, WCAG/ADA/AODA, A11y
