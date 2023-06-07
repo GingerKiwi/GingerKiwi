@@ -21,10 +21,7 @@
 
 **I'm Seeking:**
 - 🤔 Challenging Positions With 😎 Awesome People
-- 💼 Remote or Hybrid 🖊️ Technical Writing Contracts in Toronto, Ontario. 
-- 🖥️ Remote or Hybrid 👩‍💻 Web Development Positions
-
-[Download my Technical Writing Resume from GitHub](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/ElizabethMcCready-TechnicalWriter-Resume-WebVersion.pdf)
+- 🖥️ Remote or Hybrid 👩‍💻 Frontend Development Positions
 
 ---
 
@@ -57,14 +54,14 @@
 
 **🧰 Some of My Tools Are:** 
 
-- VS Code, Git, GitHub, Figma, Notion.io, Trello, Adobe CC, Obsidian (markdown), Scrivener (writing), Postman
+- VS Code, GitHub Copilot, OhMyZSH, Figma, Notion.io, Adobe CC, Obsidian (markdown), Postman
 
 **🧭 I’m Currently Exploring:** 
 
-- Jira, Typescript, Go/Golang, UI Design, Rust
+- Typescript, UI Design, 
 
 **🌱 I'm Always Growing My Skills in:** 
-- HTML, CSS, Javascript, React, GitHub/Git, French
+- HTML, CSS, Javascript, React, GitHub/Git, French, Dutch, American Sign Language, A11y,
 
 **🐍 In My 2020-2021 Computer Science and IT Courses I Used:** 
 - Python, C#.NET, Visual Studio for Windows, PHP, UML, Oracle SQL, Adobe Xd, Microsoft Viso, Microsoft Teams
