@@ -1,7 +1,8 @@
 **👋 Hello World!**
 
 **I’m Liz McCready (aka Ginger Kiwi).**
-
+[View and Download My Developer Resume](https://github.com/GingerKiwi/resume-and-certificatations/blob/main/CV_Elizabeth-McCready_liz-AT-GingerKiwi-DOT-dev.pdf)
+[Resume Figma File Link](https://www.figma.com/file/WzUSoT4cn6IpZivBnGarPB/CV_2023-07?type=design&node-id=0%3A1&mode=design&t=p4yp9NvWwIZ8erFv-1)
 **I'm A:**
 - 👩‍💻 Frontend Developer with a Passion for Design.
 - 🫶 Dedicated volunteer with over 15,000 volunteer hours (from event staff to board of directors positions)
