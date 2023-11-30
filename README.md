@@ -34,6 +34,8 @@ ACHIEVEMENTS and INTERESTING FACTS
 - Can legally work in Canada, New Zealand, Australia, and the UK
 - Did GIS on UNIX mainframe in university
 
+[![An image of @gingerkiwi's Holopin badges, and link to full Holopin profile](https://holopin.me/gingerkiwi)](https://holopin.io/@gingerkiwi)
+
 JOBS DURING UNIVERSITY:
 
 - database administrator, 
