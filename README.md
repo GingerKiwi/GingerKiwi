@@ -4,7 +4,8 @@
 
 ♿ I’m also a former adaptive technology specialist and special educator with extensive professional and personal experience in digital accessibility/A11y, WCAG, ADA, AODA, and the disability community.
 
-I have over 15,000 volunteer hours and am active in the developer and open source communities.🫶
+I have over 15,000 volunteer hours and am active in the developer and open source communities.🫶 
+Find me on Toronto JavaScript Slack and Discord, and A11yTO events at Microsoft
 
 My stacks include JAMStack,React, Vanilla JavaScript, Next.js, Astro, C#.NET, SQL, WordPress,📚 
 
@@ -12,12 +13,12 @@ My stacks include JAMStack,React, Vanilla JavaScript, Next.js, Astro, C#.NET, SQ
 🇳🇱Dutch since January 2023. 
 I'm also doing daily lessons in 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh, 🇩🇪 German, and 🇳🇴 Norwegian,
 
-EDUCATION:
+## EDUCATION:
 
 two university degrees BA and BSc.
 computer science graduate coursework. 
 
-AREAS OF STUDY:
+## AREAS OF STUDY:
 
 - Health and Medical 
 - Environmental Science 
@@ -26,7 +27,7 @@ AREAS OF STUDY:
 - Visual and Graphic Art
 - Social Anthropology / UX / qualitative research and quantitative research 
 
-ACHIEVEMENTS and INTERESTING FACTS
+## ACHIEVEMENTS and INTERESTING FACTS
 
 - Olympic torchbearer for my volunteer and community work
 - Canadian Ski Marathon: 36km in 2 days,no poles, at -53C, age 5
@@ -34,9 +35,11 @@ ACHIEVEMENTS and INTERESTING FACTS
 - Can legally work in Canada, New Zealand, Australia, and the UK
 - Did GIS on UNIX mainframe in university
 
+## HACKTOBERFEST 2022 and 2023
+
 [![An image of @gingerkiwi's Holopin badges, and link to full Holopin profile](https://holopin.me/gingerkiwi)](https://holopin.io/@gingerkiwi)
 
-JOBS DURING UNIVERSITY:
+## JOBS DURING UNIVERSITY:
 
 - database administrator, 
 - outside sales for Microsoft Office courseware, 
@@ -47,13 +50,13 @@ JOBS DURING UNIVERSITY:
 - Crown land forest regeneration surveyor, and 
 - health researcher assistant.
 
-ADDITIONAL WORK EXPERIENCE:
+## ADDITIONAL WORK EXPERIENCE:
 
 - 10+ years part-time retail sales and store leadership. I started in middle school being mentored by an amazing retail manager with 40 years experience, and held store leadership and management positions from high school through university. 
 I always had top sales results from my customer service and product knowledge skills. 
 I’m looking forward to bringing these skills to customer facing software development and technical content writing positions. 
 
-MY FAVOURITE QUOTE IS:
+## MY FAVOURITE QUOTE IS:
 
 🧶 "Knitting is at its fundamentals, a binary code featuring top-down design, standardized sub-modules, and recursive logic that relies on ratios, mathematical principles, and an intuitive grasp of three-dimensional geometry.
 ~ Kim Salazar, KnitList circa 1995
