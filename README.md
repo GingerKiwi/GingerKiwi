@@ -1,6 +1,6 @@
 [![Horizontal rectangular graphic. Dark blue background with orange to pink gradient design elements and text.From right to left: gradient vertical bordertext: GingerKiwi.devThe right third is a swirl and rectangle joined to make a gradient background.There's 9 icons in a grid. Accessibility, React JavaScript,Tailwind CSS, Astro, Figma,C#, MS SQL Server, Obsidian](https://github.com/GingerKiwi/hosted-assets/blob/main/LinkedIn-cover-2023-11.png)](https://gingerkiwi.dev)
 
-Tech savvy project manager focused on being the bridge between people.
+**Tech savvy project manager focused on being the bridge between people.**
 
 ________
 [2025 Updates coming soon]
